@@ -56,3 +56,101 @@ console.log("mensaje");
 console.log(nombre);
   //concatenado 
 console.log("la edad es "+ edad + "años");
+//operadores 
+//suma 
+var suma;
+suma = 5+3;
+console.log (suma);
+let a = 10; 
+suma = 8 + a; 
+suma = a + 9;
+console.log (suma); 
+let b = 20; 
+suma = a + b; 
+console.log(suma);
+//resta 
+var resultado; 
+resultado = a - b;
+console.log (resultado); 
+resultado = b - a; 
+console.log (resultado); 
+//multiplicacion 
+var producto; 
+producto = a * b;
+console.log(producto);
+//division 
+var division; 
+division = b / a;
+console.log(division);
+//orden de operaciones 
+var res;
+res = a * 2; //20  
+console.log(res);
+res = a * 2 - 1; //19 
+console.log(res);
+res = a *( 2 - 1 ); //10 
+console.log(res);
+//Residuo 
+var residuo;
+residuo = 12%2;//0 
+console.log(residuo);
+//contadores 
+//incremento 
+var incre = 1;
+console.log(incre);
+incre=incre + 1;
+console.log(incre);
+incre += 1;
+console.log(incre);
+incre ++;
+console.log(incre);
+//decremento 
+var decre = 1;
+console.log(decre);
+decre=decre - 1;
+console.log(decre);
+decre -= 1;
+console.log(decre);
+decre --;
+console.log(decre);
+//operaciones aumentadas 
+//son operaciones que se le realizan a una variable y el resultado se guarda en si misma. la variable debe tener un valor antes de realizar la operacion  
+var SumaAumento = 0;
+SumaAumento +=1;
+SumaAumento += 48; 
+console.log(SumaAumento);
+var restaAumento = 20;
+restaAumento -= 1; 
+restaAumento -= 8;
+console.log(restaAumento); 
+var productoAumento = 20; 
+productoAumento *= 1;  
+productoAumento *= 8;
+console.log (productoAumento);
+var cocienteAumento = 20; 
+cocienteAumento /= 1;  
+cocienteAumento /= 8;
+console.log (cocienteAumento);
+//potencia
+var exp;
+exp =3**2;
+console.log(exp);
+exp=3**3;
+console.log(exp);
+//cadenas o texto 
+//suma de cadenas 
+var nombre = "sofia";
+var apellido = "aguiar";
+var nomCompleto = nombre + " " + apellido;
+console.log(nomCompleto);
+var cadenita1 = "3";
+var cadenita2 = "5"; 
+var cadenatotal = cadenita1 + cadenita2;
+console.log (cadenatotal);
+//.legth
+//permite conocer la longitud de una cadena o el tamaño de un vector 
+console.log(nomCompleto.length);
+console.log(nombre[0]);
+console.log(nombre[3]);
+//se debe buscar la longitud (.length-1)
+console.log(nombre[nombre.length-1]);
