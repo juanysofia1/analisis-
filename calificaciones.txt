@@ -1,3 +1,6 @@
+
+Sofia Aguiar, Juan José Espinosa
+
 Taller 1: Nota 4.5
     * lineas 7, 8, 10, 17 innecesarias 
     * El grado debía inicializarse
@@ -5,3 +8,5 @@ Taller 1: Nota 4.5
 Taller 2: Nota 4.4
     * operacion linea 29 incorrecta
     * linea 31 debe solicitar el diametro, no el radio
+
+Taller 3: Nota 5. suben la nota de ambos talleres a 5
