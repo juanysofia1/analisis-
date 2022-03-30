@@ -10,3 +10,5 @@ Taller 2: Nota 4.4
     * linea 31 debe solicitar el diametro, no el radio
 
 Taller 3: Nota 5. suben la nota de ambos talleres a 5
+
+Arreglos (comentarios generales del archivo): Nota quiz 5
