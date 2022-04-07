@@ -8,7 +8,7 @@ David Peña
 // ¿Cual es la problematica? // 
 La problematica principal de nuestro proyecto son las llegadas tardes a nuestra institucion y las faltas de asistencia 
 ¿Como lo solucionaran?
-Creando una aplicacion que registre las llegadas tardes de cada estudiante, facilitando el registro 
+Creando una aplicacion que registre las llegadas tardes y las faltas de cada estudiante, facilitando el registro 
 de manera digital y la recopilacion de informacion para que todo este sistema sea mas eficaz 
 ¿Que van a entregar?
 Aplicativo Web 
