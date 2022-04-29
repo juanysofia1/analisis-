@@ -1,4 +1,4 @@
-x=5;
+/*x=5;
 console.log(x>7);//false
 console.log(x<7);//true
 console.log(x=="5");//true
@@ -33,4 +33,50 @@ x==12 && x<18//true
 x>6 && y==12 && 2>3//false
 (x*2)>22 && y<(2*4)//true
 (x>10 || x<10) && !(y!=7 && y<21)//true
-((x/2)<=(2*3) || (x*2)>23 ) && (15==="15" && y!=="7")//false
+((x/2)<=(2*3) || (x*2)>23 ) && (15==="15" && y!=="7")//false*/
+
+var tocaEduFisica= "no";
+var uniforme = "diario";
+ 
+if(tocaEduFisica == "si"){
+    uniforme = "edu. física";
+}
+ 
+console.log("Mañana debe vestir el uniforme de " + uniforme);
+
+
+var diaSiguiente= "lunes";
+var uniforme = "diario";
+ 
+if(diaSiguiente == "martes" || diaSiguiente == "jueves"){
+    uniforme = "edu. física";
+}
+ 
+console.log("Mañana debe vestir el uniforme de " + uniforme);
+
+
+var hayGaseosa = "no";
+var bebida;
+ 
+if(hayGaseosa == "si"){
+    bebida = "gaseosa";
+}else{
+    bebida = "refresco de fruta"
+}
+ 
+console.log("la bebida que acompaña su pedido es " + bebida);
+
+var diaSiguiente="jueves";
+var cuaderno;
+ 
+if(diaSiguiente == "lunes" || diaSiguiente == "martes"){
+    cuaderno="analisis";
+}else if(diaSiguiente == "miercoles"){
+    cuaderno="Tecnología";
+}else if(diaSiguiente == "jueves"){
+    cuaderno ="Desarrollo"
+}else{
+    cuaderno="Ninguno";
+}
+ 
+console.log("Para la clase de mañana con el profesor Andres debe guardar el cuaderno de" +cuaderno);
