@@ -12,3 +12,11 @@ Taller 2: Nota 4.4
 Taller 3: Nota 5. suben la nota de ambos talleres a 5
 
 Arreglos (comentarios generales del archivo): Nota quiz 5
+
+
+************************************** segundo periodo
+
+Taller 1: nota 4.8
+    * linea 43 debe tener =, el 50 y el 80 se toman
+
+Enlace examen: https://acortar.link/a0gxi0
