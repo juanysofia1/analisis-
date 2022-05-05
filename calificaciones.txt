@@ -20,3 +20,7 @@ Taller 1: nota 4.8
     * linea 43 debe tener =, el 50 y el 80 se toman
 
 Enlace examen: https://acortar.link/a0gxi0
+
+
+Examen: Nota 5
+    * linea 24 es && no ||
