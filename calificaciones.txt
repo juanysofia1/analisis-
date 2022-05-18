@@ -16,7 +16,7 @@ Arreglos (comentarios generales del archivo): Nota quiz 5
 
 ************************************** segundo periodo
 
-Taller 1: nota 4.8
+Taller condicionales: nota 4.8
     * linea 43 debe tener =, el 50 y el 80 se toman
 
 Enlace examen: https://acortar.link/a0gxi0
@@ -24,3 +24,7 @@ Enlace examen: https://acortar.link/a0gxi0
 
 Examen: Nota 5
     * linea 24 es && no ||
+
+Nota Taller ciclos: Nota 5
+    * Sugerencia: Linea 49, el mensaje debe ser en singular porque se ingresa una edad a la vez
+    * 
