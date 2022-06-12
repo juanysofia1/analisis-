@@ -30,3 +30,6 @@ Nota Taller ciclos: Nota 5
 
 Examen while: Nota 5
     * 
+
+ciclo for: nota 4
+    * falta punto 4
