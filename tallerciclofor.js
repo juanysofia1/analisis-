@@ -24,3 +24,42 @@ var numtablademultiplicarfin = parseInt(prompt("ingrese hasta que numero desea q
 for(var i=0; i<numtablademultiplicarfin; i++){
 console.log(numtablademultiplicar +"x" + i + "=" + numtablademultiplicar*i)
 }
+
+console.log("cuarto punto")
+var arreglonumeros=[] 
+var numerr; 
+for(var i=1; i<=10; i++){ 
+    numerr=parseInt(prompt("Ingrese diez numeros "+i))
+    arreglonumeros.push(numerr);
+}
+
+for(var i=0; i<arreglonumeros.length; i++){ 
+    console.log("El nombre en la posicion "+ i +" es "+ arreglonumeros[i]) 
+}
+var nummayor =arreglonumeros[0]
+for(var i=1; i<=10; i++){
+
+    if (arreglonumeros[i]>nummayor){
+        nummayor=arreglonumeros[i]
+    }
+}
+console.log("el numero mayor es " + nummayor)
+
+console.log("quinto punto")
+
+var arreglito=[]
+var producto
+
+for(var i=1; i<=5; i++){
+    producto=prompt("ingrese los articulos que desea comprar")
+    arreglito.push(producto)
+
+}
+var arregloprecio=[]
+for(var i=0; i<arreglito.length; i++){ 
+var precio= parseInt(prompt("ingrese el precio de "+arreglito[i] ))
+arregloprecio.push(precio)
+}
+
+
+
