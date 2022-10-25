@@ -33,9 +33,9 @@ for(var i=1; i<=10; i++){
     arreglonumeros.push(numerr);
 }
 
-for(var i=0; i<arreglonumeros.length; i++){ 
-    console.log("El nombre en la posicion "+ i +" es "+ arreglonumeros[i]) 
-}
+//for(var i=0; i<arreglonumeros.length; i++){ 
+  //  console.log("El nombre en la posicion "+ i +" es "+ arreglonumeros[i]) 
+//}
 var nummayor =arreglonumeros[0]
 for(var i=1; i<=10; i++){
 
