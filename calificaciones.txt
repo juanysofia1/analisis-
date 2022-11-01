@@ -33,3 +33,10 @@ Examen while: Nota 5
 
 ciclo for: nota 4
     * falta punto 4
+
+
+
+*************Cuarto periodo
+
+primer taller:
+    nota: 5
